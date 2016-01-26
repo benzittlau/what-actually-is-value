@@ -26,6 +26,10 @@ I won't attempt to answer the question today, but if I have made you think more 
 
 
 ## So what *is* value?
+> a fair return or equivalent in goods, services, or money for something exchanged
+
+> -- <cite>merriam-webster</cite>
+
 Let's look at some examples related to cars
 
 
@@ -111,6 +115,7 @@ Units Working Today - 0
 Note:
 Money was spent on parts, but the parts ended up not working.  They went from having value to having no value in an instant.
 
+
 ### What happened?
 >I have heard about enthusiasm, dedication and hard work, and endless late nights attempting to develop cutting-edge technologies and solve thorny problems. There were tales of teamwork, camaraderie, and community. But I found evidence of overconfidence, exaggeration, and obfuscation as well.
 
@@ -119,104 +124,34 @@ Despite significant investment and effort, the end result was 0 value.
 
 
 
+## Does cost always correlate to value?
+Let's look at some other examples
 
 
+## Wikipedia
 
-
-
-
-
-
-# 0 byte program example, where did the value come from?
 
 # Zano clamshell example, from having value, to none, to having some, but less
 
-# Cigarette industry, does it create value?
-
-# Does time have value?
-
-# Does currency have value?
-
-# Does education have value?
 
 
-# WHY WOULD WE CACHE?
-* It can make our apps faster
-* It can reduce load on services or API's
-* It can persist data that is no longer available
+## Have I done my job?
+If I've accomplished what I set out to do you now have more questions about value than you did 10 minutes ago.  Just in case, here's some more:
 
 
-
-# LETS CACHE!
-## DEMO PROJECT
+## Cigarette industry, does it create value?
 
 
-## Some projects will give you this for free
-[Ember Data](https://github.com/emberjs/data)
+## Does time have value?
 
 
-## Libraries
-### Ruby
-Sinatra
-
-HTTParty
-
-### JS
-Handlebars
-
-Lodash
-
-JQuery
-
-Twitter Bootstrap
+## Does currency have value?
 
 
-## Source
-[https://github.com/benzittlau/twitter_caching](https://github.com/benzittlau/twitter_caching)
+## Do bitcoin have value?
 
 
-
-## What do we need to start caching?
-
-
-## Identifiers and Payloads
-Most caching sytems are "key value stores"
-
-They need a key, and something to store
+## Does education have value?
 
 
-## Mirroring HTTP
-"Uniform resource identifier" (a key)
-
-The returned body is a that resources payload
-
-
-
-## Building in model awareness
-
-
-## Learning about tweets
-By making our caching aware of our data model we can improve efficiency.
-
-This comes at a cost of complexity and cache "bleed" into our app.
-
-
-
-## Building in persistence
-
-
-## HTML5 Local Storage
-Local storage persists accross reloads
-
-This can be a good thing, but....
-
-
-
-## Building in expiration
-
-
-## We need a way to ignore 'stale' data
-There are many strategies to invalid cache
-
-"Time To Live" is a quick and easy one
-
+## How can you tell if you're creating value?
