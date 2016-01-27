@@ -128,10 +128,36 @@ Despite significant investment and effort, the end result was 0 value.
 Let's look at some other examples
 
 
+## Apple watch
+Functionally equiavlent, but one has 15k more value.
+![](img/gold-apple-watch.jpg)
+![](img/apple-watch-red.jpg)
+
+
+## Presents/Sentiment
+How does something that's used become more valuable than it was new?
+
+![](img/teddy-bear.jpg)
+
+
 ## Wikipedia
+Article count - 5,065,740
 
+Registered editors - 27,344,404
 
-# Zano clamshell example, from having value, to none, to having some, but less
+Views Per Hour - 10,261,141
+
+Monthly Unique Visitors -  500,000,000
+
+Price - Free
+
+## Encylopedia Brittanica
+Articles - 40,000
+
+Price - $1,400
+
+Note:
+Clearly there is a disconnect here between the price and the value
 
 
 
