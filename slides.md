@@ -168,6 +168,9 @@ If I've accomplished what I set out to do you now have more questions about valu
 ## Cigarette industry, does it create value?
 
 
+## Does privacy have value?
+
+
 ## Does time have value?
 
 
