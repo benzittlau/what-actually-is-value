@@ -26,6 +26,11 @@ I won't attempt to answer the question today, but if I have made you think more 
 
 
 ## So what *is* value?
+![](img/stewart.jpg)
+
+[I know it when I see it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it)
+
+
 > a fair return or equivalent in goods, services, or money for something exchanged
 
 > -- <cite>merriam-webster</cite>
@@ -181,6 +186,9 @@ If I've accomplished what I set out to do you now have more questions about valu
 
 
 ## Does education have value?
+
+
+## Is there "conversation of value"?
 
 
 ## How can you tell if you're creating value?
